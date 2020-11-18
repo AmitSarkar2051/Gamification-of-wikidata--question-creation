@@ -1,0 +1,9 @@
+PSH ID,PSH ID
+PubChem CID,PubChem CID
+Patientplus ID,Patientplus ID
+PACTOLS thesaurus ID,PACTOLS thesaurus ID
+PatientsLikeMe treatment ID,PatientsLikeMe treatment ID
+PDB ligand ID,PDB ligand ID
+PDB structure ID,PDB structure ID
+Poisson's ratio,Poisson's ratio
+PM20 geo code,PM20 geo code
